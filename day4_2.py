@@ -10,8 +10,8 @@ for i in range(0,10):
 	plt.clf()
 	x1=x1+0.2
 	y1=y1-0.2
-	plt.scatter(X, Y, color='blue')
-	plt.scatter(x1,y1, color='r')
+	plt.scatter(X, Y, color='greem')
+	plt.scatter(x1,y1, color='blue')
 	plt.pause(0.2)
 	
 plt.show()
